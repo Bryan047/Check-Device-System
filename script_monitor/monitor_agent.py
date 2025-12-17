@@ -14,7 +14,7 @@ from tkinter import simpledialog
 # ==========================================
 # Config (Entry ID เดิม)
 # ==========================================
-FORM_URL = "https://docs.google.com/forms/d/e/xxxxxxxxx/formResponse"  #<- your Link google Form
+FORM_URL = "https://docs.google.com/forms/d/e/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/formResponse"  #<- your Link google Form
 
 
 # get Data entry.xxxxx in google form

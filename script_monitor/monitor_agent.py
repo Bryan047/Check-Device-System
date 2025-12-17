@@ -34,7 +34,7 @@ FORM_DATA = {
     "e_free":    "entry.888888886"
 }
 
-INTERVAL = 10
+INTERVAL = 10                            # <- refresh ทุก 10 วิ แก้เวลาตรงนี้
 CONFIG_FILE = "monitor_config.json"
 
 # ==========================================

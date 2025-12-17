@@ -5,7 +5,7 @@ import time
 # ==========================================
 #  Config: ใส่ Link CSV 
 # ==========================================
-CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSlgb5NR5A_L9LU6Orvg_t7aDaNxSntXbL6LhIsOrkpyGkcIpOKfYXLYkKb36XelpJTW4C_8EhpKyIk/pub?gid=1124885525&single=true&output=csv"
+CSV_URL = "https://docs.google.com/spreadsheets/d/e/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx=true&output=csv" #<- your Link google sheet file publish  .csv
 # ==========================================
 
 st.set_page_config(page_title="IT Monitor Center", layout="wide", page_icon="📡")

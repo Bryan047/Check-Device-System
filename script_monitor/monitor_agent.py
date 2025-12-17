@@ -16,6 +16,8 @@ from tkinter import simpledialog
 # ==========================================
 FORM_URL = "https://docs.google.com/forms/d/e/xxxxxxxxx/formResponse"  #<- your Link google Form
 
+
+# get Data entry.xxxxx in google form
 FORM_DATA = {
     "timestamp": "entry.111111111",
     "asset_id":  "entry.222222222", 

@@ -14,22 +14,22 @@ from tkinter import simpledialog
 # ==========================================
 # Config (Entry ID เดิม)
 # ==========================================
-FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSe0R69OiAmvmW8g3injk6KqMHEe5p8g5MJhZuiKnoyGh3koug/formResponse"
+FORM_URL = "https://docs.google.com/forms/d/e/xxxxxxxxx/formResponse"  #<- your Link google Form
 
 FORM_DATA = {
-    "timestamp": "entry.2132674211",
-    "asset_id":  "entry.665082357", 
-    "hostname":  "entry.145730339",
-    "ip":        "entry.591022999",
-    "os":        "entry.496466144",
-    "cpu":       "entry.320153514",
-    "ram":       "entry.1874055240",
-    "c_used":    "entry.1064799824",
-    "c_free":    "entry.1346164153",
-    "d_used":    "entry.380997161",
-    "d_free":    "entry.1405734931",
-    "e_used":    "entry.1727260328", 
-    "e_free":    "entry.1419489167"
+    "timestamp": "entry.111111111",
+    "asset_id":  "entry.222222222", 
+    "hostname":  "entry.333333333",
+    "ip":        "entry.444444444",
+    "os":        "entry.555555555",
+    "cpu":       "entry.666666666",
+    "ram":       "entry.777777777",
+    "c_used":    "entry.888888881",
+    "c_free":    "entry.888888882",
+    "d_used":    "entry.888888883",
+    "d_free":    "entry.888888884",
+    "e_used":    "entry.888888885", 
+    "e_free":    "entry.888888886"
 }
 
 INTERVAL = 10
